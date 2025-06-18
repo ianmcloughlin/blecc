@@ -14,8 +14,5 @@
 #show figure.where(kind: raw): set align(start)
 #set math.cases(gap: 1em)
 
-#let kron = $times.circle$
-
-
 = Binary Linear Codes
 
